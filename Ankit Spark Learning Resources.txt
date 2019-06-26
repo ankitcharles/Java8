@@ -1,0 +1,5 @@
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/spark-tips-and-tricks-running-spark-windows.html
+
+https://academy.level-up.one/p/apache-spark-with-scala-mastering-big-data/?product_id=703796&coupon_code=LEVEL_UP_HOME
+
+https://github.com/jleetutorial/scala-spark-tutorial
