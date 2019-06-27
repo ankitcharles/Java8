@@ -5,3 +5,4 @@ https://academy.level-up.one/p/apache-spark-with-scala-mastering-big-data/?produ
 https://github.com/jleetutorial/scala-spark-tutorial
 
 https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/sql
+ https://pedrovgs.github.io/Romas
