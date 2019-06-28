@@ -6,3 +6,5 @@ https://github.com/jleetutorial/scala-spark-tutorial
 
 https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/sql
  https://pedrovgs.github.io/Romas
+ https://github.com/DovAmir/awesome-design-patterns#cloud-architecture
+ https://github.com/kamranahmedse/design-patterns-for-humans
