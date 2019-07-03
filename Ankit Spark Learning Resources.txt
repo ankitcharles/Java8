@@ -12,3 +12,5 @@ setting up spark on windows
 https://medium.com/@naomi.fridman/install-pyspark-to-run-on-jupyter-notebook-on-windows-4ec2009de21f
 sample spark project using databricks
 https://databricks.com/blog/2016/12/12/apache-spark-scala-library-development-with-databricks.html
+learning spark book source code
+https://github.com/databricks/learning-spark
