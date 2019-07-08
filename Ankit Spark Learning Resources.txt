@@ -14,3 +14,4 @@ sample spark project using databricks
 https://databricks.com/blog/2016/12/12/apache-spark-scala-library-development-with-databricks.html
 learning spark book source code
 https://github.com/databricks/learning-spark
+https://www.cloudera.com/documentation/enterprise/5-5-x/topics/spark_develop_run.html
