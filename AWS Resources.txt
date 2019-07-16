@@ -1,0 +1,7 @@
+https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html?icmpid=docs_iam_console
+
+https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f?source=search_post---------3
+
+https://medium.com/free-code-camp/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536
+
+https://www.whizlabs.com/blog/aws-solutions-architect-associate-exam-questions/
