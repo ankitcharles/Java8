@@ -17,3 +17,4 @@ https://github.com/databricks/learning-spark
 https://www.cloudera.com/documentation/enterprise/5-5-x/topics/spark_develop_run.html
 Apache Spark Hortonworks link
 https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.1.0/running-spark-applications/content/running_spark.html
+Databricks sample project for creating data frame and then moving this data to SQL table.
