@@ -20,3 +20,5 @@ https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.1.0/running-spark-applicati
 Databricks sample project for creating data frame and then moving this data to SQL table.
 --- Oozie for apache spark scheudler----
 https://developer.ibm.com/hadoop/2017/06/30/scheduling-spark-job-written-pyspark-sparkr-yarn-oozie/
+----- SCHEDULE PYTHON APACHE BEAM DATAFLOW PIPELINE USING APP ENGINE CRON SERVICE ----
+https://zablo.net/blog/post/python-apache-beam-google-dataflow-cron/
