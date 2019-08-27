@@ -18,3 +18,5 @@ https://www.cloudera.com/documentation/enterprise/5-5-x/topics/spark_develop_run
 Apache Spark Hortonworks link
 https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.1.0/running-spark-applications/content/running_spark.html
 Databricks sample project for creating data frame and then moving this data to SQL table.
+--- Oozie for apache spark scheudler----
+https://developer.ibm.com/hadoop/2017/06/30/scheduling-spark-job-written-pyspark-sparkr-yarn-oozie/
