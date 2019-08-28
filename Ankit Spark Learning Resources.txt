@@ -22,3 +22,5 @@ Databricks sample project for creating data frame and then moving this data to S
 https://developer.ibm.com/hadoop/2017/06/30/scheduling-spark-job-written-pyspark-sparkr-yarn-oozie/
 ----- SCHEDULE PYTHON APACHE BEAM DATAFLOW PIPELINE USING APP ENGINE CRON SERVICE ----
 https://zablo.net/blog/post/python-apache-beam-google-dataflow-cron/
+---- postgres sql queries ----
+https://www.postgresql.org/docs/current/queries-table-expressions.html#QUERIES-GROUPING-SETS
